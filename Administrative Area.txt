@@ -5,3 +5,6 @@ District
 Upozila
 Area
 Pourashava / Non Urban Area
+Ward
+Mohollah
+Road
